@@ -1,2 +1,2 @@
 # todo-app-ts
-Simple TODO tasks web application written in Typescript
+Simple TODO tasks web application written in Typescript.
